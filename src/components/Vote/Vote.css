@@ -1,0 +1,23 @@
+.vote-container {
+    width: 10%;
+}
+
+.caret-up {
+    opacity: 0.5;
+}
+
+.caret-down {
+    opacity: 0.5;
+}
+
+.caret-up.active {
+    opacity: 1;
+}
+
+.caret-down.active {
+    opacity: 1;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}

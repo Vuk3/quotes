@@ -1,0 +1,20 @@
+.quotes-list {
+    padding: 0;
+}
+
+.pages-and-total-pages {
+    display: inline;
+    padding: 0px 10px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.cursor-not-allowed {
+    cursor: not-allowed;
+}
+
+.tag-container {
+    margin-right: 8px;
+}

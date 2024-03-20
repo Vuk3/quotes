@@ -1,0 +1,27 @@
+.quote-container {
+    width: 90%;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.quote-text {
+    color: black;
+    text-align: left;
+    padding: 10px 15px;
+}
+
+.quote-text>p {
+    margin: 0;
+}
+
+.quote-author {
+    color: gray;
+    text-transform: uppercase;
+    text-align: right;
+    padding: 10px 15px;
+    font-size: 13px;
+}
