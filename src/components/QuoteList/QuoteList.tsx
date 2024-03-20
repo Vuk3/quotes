@@ -163,7 +163,8 @@ const QuoteList: React.FC = () => {
           </label>
         ))}
       </div>
-      <div>
+      <div className = "sort-container">
+        <label>Sort by: </label>
         <select value={selectedOption} onChange={handleSelectChange}>
           <option value="default">Default</option>
           <option value="asc">Average Rating Ascending</option>
